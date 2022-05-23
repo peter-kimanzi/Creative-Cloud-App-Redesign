@@ -6,3 +6,4 @@ Glassmorphism Creative Cloud App Redesign
 
 * HTML
 * CSS
+* JavaScript
