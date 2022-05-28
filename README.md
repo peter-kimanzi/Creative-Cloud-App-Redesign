@@ -8,6 +8,7 @@ Glassmorphism Creative Cloud App Redesign
 * HTML
 * CSS
 * JavaScript
+* Jquery
 
 # Live website can be viewed here
 
